@@ -1,4 +1,4 @@
-# Project Collaboration & Issue Tracking System
+# Project
 
 A MERN stack project for managing projects, tasks, and team collaboration.
 
