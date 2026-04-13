@@ -14,9 +14,6 @@ A MERN stack project for managing projects, tasks, and team collaboration.
 
 ### 👨‍💻 Team Member
 - View assigned tasks
-- Update task status
-- Add comments/notes
-
 ---
 
 ## 🧩 Tech Stack
